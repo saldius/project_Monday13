@@ -1,4 +1,5 @@
 def string_upper(s):
+    """возвращает строку со всеми заглавными буквами"""
     return s.upper()
 
 if __name__ == '__main__':
